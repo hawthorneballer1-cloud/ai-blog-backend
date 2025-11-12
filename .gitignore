@@ -1,0 +1,15 @@
+ECHO is on.
+
+# Virtual Environment
+venv/
+
+# SQLite Database
+blog.db
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Render sensitive file (if you use it)
+.env
